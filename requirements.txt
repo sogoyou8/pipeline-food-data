@@ -1,0 +1,17 @@
+# Collecte et MongoDB
+requests==2.31.0
+pymongo==4.6.1
+python-dotenv==1.0.0
+
+# SQL - Version compatible Python 3.14
+psycopg2-binary>=2.9.10
+SQLAlchemy>=2.0.36
+
+# API Backend
+fastapi==0.109.0
+uvicorn==0.27.0
+
+# Tests
+pytest==7.4.4
+pytest-asyncio==0.23.3
+httpx==0.26.0
